@@ -186,7 +186,7 @@ TaskManager:
 
 ### Freelancer Profile
 
-![Freelancer Profile](screenshots/freelanceProfile.PNG)
+![Freelancer Profile](screenshots/freelancerProfile.PNG)
 
 ### Freelancer Dashboard
 
