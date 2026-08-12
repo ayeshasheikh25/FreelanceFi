@@ -182,11 +182,11 @@ TaskManager:
 
 ### Freelancer History
 
-![Freelancer History](screenshots/freelancerHistory.PNG)
+![Freelancer History](screenshots/freelanceHistory.PNG)
 
 ### Freelancer Profile
 
-![Freelancer Profile](.screenshots/freelancerProfile.PNG)
+![Freelancer Profile](.screenshots/freelanceProfile.PNG)
 
 ### Freelancer Dashboard
 
