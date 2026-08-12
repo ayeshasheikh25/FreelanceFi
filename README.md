@@ -166,25 +166,31 @@ TaskManager:
 
 # Screenshots
 
-Add screenshots here.
+### Landing Page
 
-### Client Dashboard
-![Client Dashboard](screenshots/clientDashboard.PNG)
+![Landing Page](./screenshots/LandingPage_1.png)
+![Landing Page](./screenshots/LandingPage_2.png)
 
-### Create Tasks
-![Create Tasks](screenshots/createTasks.PNG)
+### Login
 
-### Ratings
-![Ratings](screenshots/ratings.PNG)
+![Login](./screenshots/Login.png)
 
-### Freelancer History
-![Freelancer History](screenshots/freelanceHistory.PNG)
+### Register
 
-### Freelancer Profile
-![Freelancer Profile](screenshots/freelancerProfile.PNG)
+![Register](./screenshots/Registration.png)
 
-### Freelancer Dashboard
-![Freelancer Dashboard](screenshots/freelancerDashboard.PNG)
+### Dashboard
+
+![Dashboard](./screenshots/Dashboard.png)
+
+### Upload Resume
+
+![Upload Resume](./screenshots/Upload.png)
+
+### Resume History
+
+![Resume History](./screenshots/History.png)
+
 ---
 
 # Installation
