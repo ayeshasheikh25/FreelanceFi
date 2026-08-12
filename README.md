@@ -170,7 +170,7 @@ TaskManager:
 
 ### Client Dashboard
 
-![Client Dashboard](screenshots/clientDashboard.png)
+![Client Dashboard](screenshots/clientDashboard.PNG)
 
 ### Create Tasks
 
