@@ -174,23 +174,23 @@ TaskManager:
 
 ### Create Tasks
 
-![Create Tasks](screenshots/createTasks.png)
+![Create Tasks](screenshots/createTasks.PNG)
 
 ### Ratings
 
-![Ratings](screenshots/ratings.png)
+![Ratings](screenshots/ratings.PNG)
 
 ### Freelancer History
 
-![Freelancer History](screenshots/freelancerHistory.png)
+![Freelancer History](screenshots/freelancerHistory.PNG)
 
 ### Freelancer Profile
 
-![Freelancer Profile](.screenshots/freelancerProfile.png)
+![Freelancer Profile](.screenshots/freelancerProfile.PNG)
 
 ### Freelancer Dashboard
 
-![Freelancer Dashboard](./screenshots/freelancerDashboard.png)
+![Freelancer Dashboard](./screenshots/freelancerDashboard.PNG)
 
 ---
 
