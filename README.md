@@ -166,30 +166,31 @@ TaskManager:
 
 # Screenshots
 
-### Landing Page
+# Screenshots
 
-![Landing Page](./screenshots/LandingPage_1.png)
-![Landing Page](./screenshots/LandingPage_2.png)
+### Client Dashboard
 
-### Login
+![Client Dashboard](./screenshots/client-dashboard.png)
 
-![Login](./screenshots/Login.png)
+### Create Tasks
 
-### Register
+![Create Tasks](./screenshots/create-tasks.png)
 
-![Register](./screenshots/Registration.png)
+### Ratings
 
-### Dashboard
+![Ratings](./screenshots/ratings.png)
 
-![Dashboard](./screenshots/Dashboard.png)
+### Freelancer History
 
-### Upload Resume
+![Freelancer History](./screenshots/freelancer-history.png)
 
-![Upload Resume](./screenshots/Upload.png)
+### Freelancer Profile
 
-### Resume History
+![Freelancer Profile](./screenshots/freelancer-profile.png)
 
-![Resume History](./screenshots/History.png)
+### Freelancer Dashboard
+
+![Freelancer Dashboard](./screenshots/freelancer-dashboard.png)
 
 ---
 
