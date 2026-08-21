@@ -17,7 +17,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 connectDB()
-app.use('/auth/connect-wallet', AuthRoutes)
+app.use('/api/auth/connect-wallet', AuthRoutes)
 const PORT = process.env.PORT
 app.listen(PORT, ()=>{
     console.log(`Server running at http://localhost:${PORT}`)
