@@ -6,15 +6,16 @@
         },
         "backend": {
             "root": "backend",
-            "entrypoint": "server.js" 
+            "entrypoint": "server.js"
         }
     },
     "rewrites": [
         {
-            "source": "/api(/.*)?",
+            "source": "/api/(.*)",
             "destination": {
                 "type": "service",
-                "service": "backend"
+                "service": "backend",
+                "path": "/$1" 
             }
         },
         {
@@ -26,4 +27,3 @@
         }
     ]
 }
-
